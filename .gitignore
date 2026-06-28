@@ -1,0 +1,16 @@
+# Course documents
+*.pdf
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
