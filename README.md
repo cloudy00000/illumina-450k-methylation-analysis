@@ -116,8 +116,8 @@ The analysis uses a small sample subset and should be interpreted as an explorat
 Developed collaboratively by:
 
 - [Maria Kotsikori](https://github.com/cloudy00000)
+- [Paolo F. Zarcone](https://github.com/Aikon003)
 - [Name](https://github.com/username) #add
-- [Name](https://github.com/username)
 - [Name](https://github.com/username)
 - [Name](https://github.com/username)
 - [Name](https://github.com/username)
