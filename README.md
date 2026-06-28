@@ -82,11 +82,18 @@ illumina-450k-methylation-analysis/
 
 ---
 
-## Data Availability
+## Data and Environment Setup
 
-Raw IDAT files are not included in this repository.
+The raw methylation data and the preconfigured R library files are not stored directly in this repository.
 
-The repository contains only the analysis code and the final generated report. Users wishing to reproduce the analysis must obtain the corresponding raw methylation data separately and update the input paths in the R script.
+The analysis script downloads the required files from Google Drive:
+
+- [Raw data files](https://drive.google.com/drive/u/1/folders/1KumBGpRTrO_EAoWVIwdYvo33fE5Cu0Bd)
+- [Preconfigured R libraries](https://drive.google.com/file/d/1jxRXgic6slClamJrgKFRrJtALZBRzFfT)
+
+The Google Drive links must be accessible to anyone with the link for the automated download steps in the R script to work.
+
+The raw data files should be placed in the directory expected by the script, or the corresponding file paths should be updated before running the analysis.
 
 ---
 
