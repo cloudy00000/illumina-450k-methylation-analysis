@@ -127,4 +127,4 @@ Developed collaboratively by:
 
 ## License
 
-This project is shared for educational and portfolio purposes. Please contact the authors before reusing substantial parts of the analysis.
+This project is shared for educational purposes. Please contact the authors before reusing substantial parts of the analysis.
