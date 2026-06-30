@@ -73,12 +73,14 @@ The analysis is performed in R using packages including:
 illumina-450k-methylation-analysis/
 ├── README.md
 ├── methylation_analysis_workflow.R
+├── methylation_analysis_report.ipynb
 ├── methylation_analysis_report.html
 └── .gitignore
 ```
 
 - `methylation_analysis_workflow.R` contains the complete analysis code.
-- `methylation_analysis_report.html` contains the knitted report, figures, results, and interpretation.
+- `methylation_analysis_report.ipynb` readable notebook containing code, explanations, plots, results, and conclusions.
+- `methylation_analysis_report.html` the final exported report that opens exactly as intended in a browser.
 
 ---
 

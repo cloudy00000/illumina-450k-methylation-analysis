@@ -3,6 +3,7 @@
 
 # Jupyter notebooks
 *.ipynb
+!methylation_analysis_report.ipynb
 .ipynb_checkpoints/
 
 # R session files
