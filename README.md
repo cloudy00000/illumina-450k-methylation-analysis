@@ -1,7 +1,7 @@
 # Illumina 450K DNA Methylation Analysis
 
 ![R](https://img.shields.io/badge/R-Analysis-276DC3?logo=r&logoColor=white)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-minfi-87B13F)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-minfi-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Illumina%20450K-F28C28)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
