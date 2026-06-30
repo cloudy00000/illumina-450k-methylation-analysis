@@ -126,7 +126,7 @@ Developed collaboratively by:
 - [Paolo F. Zarcone](https://github.com/Aikon003)
 - [Henrik Celaj](https://github.com/jhenrik14) 
 - [Simona Ramella](https://github.com/simoram04-wq) 
-- [Name](https://github.com/username) #add
+- [Agnese Rolla](https://github.com/Agneser1)
 - [Name](https://github.com/username) #add
 - [Name](https://github.com/username) #add
 
