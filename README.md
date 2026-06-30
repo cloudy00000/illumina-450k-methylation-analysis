@@ -128,7 +128,7 @@ Developed collaboratively by:
 - [Simona Ramella](https://github.com/simoram04-wq) 
 - [Agnese Rolla](https://github.com/Agneser1)
 - [Silvia Stefanelli](https://github.com/slvstf) 
-- [Name](https://github.com/username) #add
+- [Xhenifer Halilaj](https://github.com/xheniferh)
 
 ---
 
